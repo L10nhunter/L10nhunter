@@ -1,3 +1,6 @@
+# I've Moved!
+I'm on gitea now, because I'm not a fan of Github. come check out my work at [my Gitea Instance](https://git.li0nhunter.com/li0nhunter)
+
 # 💫 About Me:
 Hi, I’m @L10nhunter. I’m interested in AI and reverse engineering of old video games. I’m currently learning Web Server Programming at SUNY New Paltz. Pronouns: He/Him. Fun fact: I play 6 instruments to varying levels of ability
 
